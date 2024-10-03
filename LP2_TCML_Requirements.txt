@@ -13,3 +13,4 @@ xgboost
 optuna
 scipy
 imbalanced-learn
+jinja2
